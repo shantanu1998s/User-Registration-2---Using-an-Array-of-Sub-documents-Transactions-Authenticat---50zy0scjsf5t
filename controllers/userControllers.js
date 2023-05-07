@@ -3,15 +3,12 @@ const users   =require("../models/user.js");
 
 /*
 Post request json file structure
-
-
     obj =  {
         "name":name,
         "email":email,
         "password": password,
         "DOB": DOB
     }
-
  */
 
 //You need to complete the route of user register
